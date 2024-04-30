@@ -4,6 +4,6 @@ Implementation of a Bus Reservation System (BRS) using Django, a high-level Pyth
 
 Admin Login Credentials :\
 Username : admin\
-password : admin\
+password : admin
 
 Change admin password : http://127.0.0.1:8000/admin
